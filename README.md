@@ -1,12 +1,12 @@
 # shop_app
 
-A new Flutter project.
+An example project, made with help of Flutter, using Provider state-management. Data is stored on Firebase server, products belong to test users.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is made with help of Flutter framework.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if you want to make something!
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
