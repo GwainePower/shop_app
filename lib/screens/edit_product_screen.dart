@@ -159,7 +159,7 @@ class _EditProductScreenState extends State<EditProductScreen> {
                                     .requestFocus(_priceFocusNode),
                             validator: (value) {
                               if (value!.isEmpty) {
-                                return 'Введи название блять';
+                                return 'Название не ввел таки';
                               }
                               return null;
                             },
